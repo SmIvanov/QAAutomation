@@ -13,7 +13,6 @@ namespace HomeworkPOM
     public class POMTests
     {
 
-
         private ChromeDriver _driver;
         private LoginPage _loginPage;
         private RegistrationPage _regPage;
@@ -36,7 +35,6 @@ namespace HomeworkPOM
 
         public void FillRegistrationFormWithoutFirstName()
         {
-
 
             _regPage.EMail.Type("");
 
