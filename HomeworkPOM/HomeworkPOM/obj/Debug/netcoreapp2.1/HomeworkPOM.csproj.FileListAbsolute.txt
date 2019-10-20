@@ -1,0 +1,17 @@
+C:\Users\Smilkata\source\repos\HomeworkPOM\HomeworkPOM\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Smilkata\source\repos\HomeworkPOM\HomeworkPOM\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Smilkata\source\repos\HomeworkPOM\HomeworkPOM\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\Smilkata\source\repos\HomeworkPOM\HomeworkPOM\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\Smilkata\source\repos\HomeworkPOM\HomeworkPOM\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\Smilkata\source\repos\HomeworkPOM\HomeworkPOM\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\Smilkata\source\repos\HomeworkPOM\HomeworkPOM\bin\Debug\netcoreapp2.1\HomeworkPOM.deps.json
+C:\Users\Smilkata\source\repos\HomeworkPOM\HomeworkPOM\bin\Debug\netcoreapp2.1\HomeworkPOM.runtimeconfig.json
+C:\Users\Smilkata\source\repos\HomeworkPOM\HomeworkPOM\bin\Debug\netcoreapp2.1\HomeworkPOM.runtimeconfig.dev.json
+C:\Users\Smilkata\source\repos\HomeworkPOM\HomeworkPOM\bin\Debug\netcoreapp2.1\HomeworkPOM.dll
+C:\Users\Smilkata\source\repos\HomeworkPOM\HomeworkPOM\bin\Debug\netcoreapp2.1\HomeworkPOM.pdb
+C:\Users\Smilkata\source\repos\HomeworkPOM\HomeworkPOM\obj\Debug\netcoreapp2.1\HomeworkPOM.csprojAssemblyReference.cache
+C:\Users\Smilkata\source\repos\HomeworkPOM\HomeworkPOM\obj\Debug\netcoreapp2.1\HomeworkPOM.csproj.CoreCompileInputs.cache
+C:\Users\Smilkata\source\repos\HomeworkPOM\HomeworkPOM\obj\Debug\netcoreapp2.1\HomeworkPOM.AssemblyInfoInputs.cache
+C:\Users\Smilkata\source\repos\HomeworkPOM\HomeworkPOM\obj\Debug\netcoreapp2.1\HomeworkPOM.AssemblyInfo.cs
+C:\Users\Smilkata\source\repos\HomeworkPOM\HomeworkPOM\obj\Debug\netcoreapp2.1\HomeworkPOM.dll
+C:\Users\Smilkata\source\repos\HomeworkPOM\HomeworkPOM\obj\Debug\netcoreapp2.1\HomeworkPOM.pdb
