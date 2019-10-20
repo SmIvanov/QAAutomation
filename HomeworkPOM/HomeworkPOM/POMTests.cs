@@ -12,6 +12,8 @@ namespace HomeworkPOM
     [TestFixture]
     public class POMTests
     {
+
+
         private ChromeDriver _driver;
         private LoginPage _loginPage;
         private RegistrationPage _regPage;

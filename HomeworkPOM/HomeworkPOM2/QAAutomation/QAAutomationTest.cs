@@ -19,6 +19,7 @@ namespace HomeworkPOM2.QAAutomation
             _driver = new ChromeDriver(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));
             _driver.Manage().Window.Maximize();
 
+
             _sUpage = new SoftUniPage(_driver);
             _qACoursePage = new QACoursePage(_driver);
         }
