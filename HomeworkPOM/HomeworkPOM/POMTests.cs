@@ -36,7 +36,7 @@ namespace HomeworkPOM
         public void FillRegistrationFormWithoutFirstName()
         {
 
-            _regPage.EMail.Type("");
+            _user.FirstName = "";
 
             _regPage.Navigate(_loginPage);
             _regPage.FillForm(_user);
