@@ -1,0 +1,17 @@
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\HomeworkPOM\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\HomeworkPOM\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\HomeworkPOM\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\HomeworkPOM\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\HomeworkPOM\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\HomeworkPOM\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\HomeworkPOM\bin\Debug\netcoreapp2.1\RegistrationNegativeTests.deps.json
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\HomeworkPOM\bin\Debug\netcoreapp2.1\RegistrationNegativeTests.runtimeconfig.json
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\HomeworkPOM\bin\Debug\netcoreapp2.1\RegistrationNegativeTests.runtimeconfig.dev.json
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\HomeworkPOM\bin\Debug\netcoreapp2.1\RegistrationNegativeTests.dll
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\HomeworkPOM\bin\Debug\netcoreapp2.1\RegistrationNegativeTests.pdb
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\HomeworkPOM\obj\Debug\netcoreapp2.1\RegistrationNegativeTests.csprojAssemblyReference.cache
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\HomeworkPOM\obj\Debug\netcoreapp2.1\RegistrationNegativeTests.csproj.CoreCompileInputs.cache
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\HomeworkPOM\obj\Debug\netcoreapp2.1\RegistrationNegativeTests.AssemblyInfoInputs.cache
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\HomeworkPOM\obj\Debug\netcoreapp2.1\RegistrationNegativeTests.AssemblyInfo.cs
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\HomeworkPOM\obj\Debug\netcoreapp2.1\RegistrationNegativeTests.dll
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\HomeworkPOM\obj\Debug\netcoreapp2.1\RegistrationNegativeTests.pdb

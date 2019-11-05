@@ -1,0 +1,17 @@
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\bin\Debug\netcoreapp2.1\SeleniumSearch.deps.json
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\bin\Debug\netcoreapp2.1\SeleniumSearch.runtimeconfig.json
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\bin\Debug\netcoreapp2.1\SeleniumSearch.runtimeconfig.dev.json
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\bin\Debug\netcoreapp2.1\SeleniumSearch.dll
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\bin\Debug\netcoreapp2.1\SeleniumSearch.pdb
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\obj\Debug\netcoreapp2.1\SeleniumSearch.csprojAssemblyReference.cache
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\obj\Debug\netcoreapp2.1\SeleniumSearch.csproj.CoreCompileInputs.cache
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\obj\Debug\netcoreapp2.1\SeleniumSearch.AssemblyInfoInputs.cache
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\obj\Debug\netcoreapp2.1\SeleniumSearch.AssemblyInfo.cs
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\obj\Debug\netcoreapp2.1\SeleniumSearch.dll
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\obj\Debug\netcoreapp2.1\SeleniumSearch.pdb

@@ -1,0 +1,17 @@
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\bin\Debug\netcoreapp2.1\HomeworkPOM1.deps.json
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\bin\Debug\netcoreapp2.1\HomeworkPOM1.runtimeconfig.json
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\bin\Debug\netcoreapp2.1\HomeworkPOM1.runtimeconfig.dev.json
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\bin\Debug\netcoreapp2.1\HomeworkPOM1.dll
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\bin\Debug\netcoreapp2.1\HomeworkPOM1.pdb
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\obj\Debug\netcoreapp2.1\HomeworkPOM1.csprojAssemblyReference.cache
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\obj\Debug\netcoreapp2.1\HomeworkPOM1.csproj.CoreCompileInputs.cache
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\obj\Debug\netcoreapp2.1\HomeworkPOM1.AssemblyInfoInputs.cache
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\obj\Debug\netcoreapp2.1\HomeworkPOM1.AssemblyInfo.cs
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\obj\Debug\netcoreapp2.1\HomeworkPOM1.dll
+C:\Users\Smilkata\Source\Repos\QAAutomation2\HomeworkPOM\GooglePOM\obj\Debug\netcoreapp2.1\HomeworkPOM1.pdb
